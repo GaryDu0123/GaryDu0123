@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My name is Guanyi Du, you can call me Gary, I'm current study in The University of Sydney, major in Computer Science and Software Development
+- 📫 How to reach me: gudu9182@uni.sydney.edu.au
+- 🌱 I’m currently learning `Python`, `C++`, `Java`, `MySQL`
 <!--
 **GaryDu0123/GaryDu0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

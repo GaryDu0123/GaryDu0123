@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- My name is Guanyi Du, you can call me Gary, I'm current study in The University of Sydney, major in Computer Science and Software Development
+- My name is Guanyi Du, you can call me Gary, I'm currently studying in The University of Sydney, majoring in Computer Science and Software Development
+- Sophomore student
 - 📫 How to reach me: gudu9182@uni.sydney.edu.au
 - 🌱 I’m currently learning `Python`, `C++`, `Java`, `MySQL`
 <!--

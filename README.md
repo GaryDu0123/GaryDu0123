@@ -13,7 +13,7 @@
 </div>
 
 <hr>
-<a href="https://twitter.com/intent/user?screen_name=kusunoki5050">
+<a href="https://twitter.com/kusunoki5050/status/1498660502855045127">
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">
 </a>
 
@@ -42,7 +42,7 @@
 
 <br /><br /><br /><br />
 🌟嘛~ 虽然喜欢开摆, 但是平常还是会好好写代码的~
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 
 <hr>

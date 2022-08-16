@@ -40,21 +40,19 @@
 </a>
 
 
-
+<br /><br /><br /><br />
 🌟嘛~ 虽然喜欢开摆, 但是平常还是会好好写代码的~
-
-
-
-
-
+<br /><br /><br /><br />
 
 
 <hr>
 <a href="https://github.com/garydu0123">
   <img align="left" src="https://github-readme-stats-ri5cu0qyj-garydu0123.vercel.app/api/top-langs/?username=garydu0123&layout=compact&hide=Jupyter%20Notebook"/>
 </a>
-不得不说Python用的最熟, 但是不得不吐槽你校不教前端但是却让写前端, 所以呢, Gary就学会了
-![](https://img.shields.io/badge/-Python-blue)![](https://img.shields.io/badge/-html-orange) ![](https://img.shields.io/badge/-Java-yellow) ![](https://img.shields.io/badge/-JavaScript-yellowgreen)![](https://img.shields.io/badge/-CSS-brightgreen) ![](https://img.shields.io/badge/-SQL-lightgrey) ![](https://img.shields.io/badge/-Bash-red)
+Python用的最熟, 但是不得不吐槽你校不教前端但是却让写前端, 所以呢, Gary就学会了<br /><br />
+
+
+![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-html-orange) ![](https://img.shields.io/badge/-Java-yellow) ![](https://img.shields.io/badge/-JavaScript-yellowgreen) ![](https://img.shields.io/badge/-CSS-brightgreen) ![](https://img.shields.io/badge/-SQL-lightgrey) ![](https://img.shields.io/badge/-Bash-red)
 
 🕊️有学Golang和C的计划来着, 都学了一点~ 慢慢来.jpg
 

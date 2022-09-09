@@ -36,7 +36,7 @@
 > Email: gudu9182@uni.sydney.edu.au
 
 <a href="https://github.com/garydu0123">
-  <img align="left" src="https://github-readme-stats-ri5cu0qyj-garydu0123.vercel.app/api?username=garydu0123&count_private=true&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats-ddnplk3dk-garydu0123.vercel.app/api?username=garydu0123&count_private=true&show_icons=true"/>
 </a>
 
 
@@ -47,7 +47,7 @@
 
 <hr>
 <a href="https://github.com/garydu0123">
-  <img align="left" src="https://github-readme-stats-ri5cu0qyj-garydu0123.vercel.app/api/top-langs/?username=garydu0123&layout=compact&hide=Jupyter%20Notebook"/>
+  <img align="left" src="https://github-readme-stats-ddnplk3dk-garydu0123.vercel.app/api/top-langs/?username=garydu0123&layout=compact&hide=Jupyter%20Notebook"/>
 </a>
 Python用的最熟, 但是不得不吐槽你校不教前端但是却让写前端, 所以呢, Gary就学会了<br /><br />
 

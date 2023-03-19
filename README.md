@@ -17,7 +17,7 @@
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">
 </a>
 
-> 名字叫Gary, 目前悉尼大学大二在读
+> 名字叫Gary, 目前悉尼大学大三在读
 >
 > 因为[Kirara Fantasia](https://zh.wikipedia.org/wiki/%E9%97%AA%E8%80%80%E5%B9%BB%E6%83%B3%E6%9B%B2)抽不到[盐](https://wiki.kirafan.moe/#/character/32122010)所以网名改叫了盐 (后来复刻抽到了)
 >

@@ -31,7 +31,7 @@
 >
 > My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development
 >
-> Sophomore student
+> Junior student
 >
 > Email: gudu9182@uni.sydney.edu.au
 

@@ -49,7 +49,7 @@
 <a href="https://github.com/garydu0123">
   <img align="left" src="https://github-readme-stats-ddnplk3dk-garydu0123.vercel.app/api/top-langs/?username=garydu0123&layout=compact&hide=Jupyter%20Notebook"/>
 </a>
-Python用的最熟, 但是不得不吐槽你校不教前端但是却让写前端, 所以呢, Gary就学会了<br /><br />
+Python用的最熟, 但是不得不吐槽你校不教前端但是却让写前端, 所以呢, 盐就学会了<br /><br />
 
 
 ![](https://img.shields.io/badge/-Python-blue) ![](https://img.shields.io/badge/-html-orange) ![](https://img.shields.io/badge/-Java-yellow) ![](https://img.shields.io/badge/-JavaScript-yellowgreen) ![](https://img.shields.io/badge/-CSS-brightgreen) ![](https://img.shields.io/badge/-SQL-lightgrey) ![](https://img.shields.io/badge/-Bash-red)

@@ -28,9 +28,10 @@ p = Person(name="Gary")
 p.age: str | int = "Unknown"
 p.degree: str = "Honours student"
 p.bio: list = [
-    "Currently studying in The University of Sydney, majoring in Computer Science and Software Development. ",
+    "Majoring in Computer Science and Software Development. ",
     "Researching Sign language production, Computer vision"
 ]
+p.school: str = "The University of Sydney"
 p.email: str = "gudu9182@uni.sydney.edu.au"
 p.run()
 ```

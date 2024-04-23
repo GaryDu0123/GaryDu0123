@@ -27,7 +27,9 @@
 >
 > 以下是英文简介
 >
-> My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development. Current Search on Sign Language Production, Computer Vison
+> My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development.
+>
+> Currently searching Sign language production, Computer vision
 >
 > Honous student
 >

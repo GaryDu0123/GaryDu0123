@@ -23,13 +23,14 @@
 >
 > 主修计算机科学和软件工程
 >
-> My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development.
->
-> Currently researching Sign Language Production (Computer Vision)
->
-> Honours student
->
-> Email: gudu9182@uni.sydney.edu.au
+```Python
+p = Person()
+p.age: str | int = "Unknown"
+p.degree: str = "Honours student"
+p.bio: str = "My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development."
+p.email: str = "gudu9182@uni.sydney.edu.au"
+p.run()
+```
 
 <a href="https://github.com/garydu0123">
   <img align="left" src="https://github-readme-stats-ddnplk3dk-garydu0123.vercel.app/api?username=garydu0123&count_private=true&show_icons=true"/>

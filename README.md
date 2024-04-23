@@ -25,6 +25,7 @@
 >
 ```Python
 p = Person(name="Gary")
+p.nickname = "Salt"
 p.age: str | int = "Unknown"
 p.degree: str = "Honours student"
 p.bio: list = [

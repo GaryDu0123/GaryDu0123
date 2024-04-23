@@ -19,11 +19,9 @@
 
 > 名字叫Gary, 目前悉尼大学荣誉学位在读, 处在论文读不进去的状态......
 >
-> 因为[Kirara Fantasia](https://zh.wikipedia.org/wiki/%E9%97%AA%E8%80%80%E5%B9%BB%E6%83%B3%E6%9B%B2)抽不到[盐](https://wiki.kirafan.moe/#/character/32122010)所以网名改叫了盐 (后来复刻抽到了)
+> 因为[Kirara Fantasia](https://zh.wikipedia.org/wiki/%E9%97%AA%E8%80%80%E5%B9%BB%E6%83%B3%E6%9B%B2)抽不到[盐](https://wiki.kirafan.moe/#/character/32122010)所以网名改叫了盐 (后来复刻抽到了, 但是游戏已经寄了)
 >
 > 主修计算机科学和软件工程
->
-> チノが一番好き!!!! ~~虽然打了日语但实际上是只会认五十音的屑~~
 >
 > 以下是英文简介
 >

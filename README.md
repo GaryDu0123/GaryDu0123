@@ -27,7 +27,7 @@
 >
 > Currently researching Sign Language Production (Computer Vision)
 >
-> Honous student
+> Honours student
 >
 > Email: gudu9182@uni.sydney.edu.au
 

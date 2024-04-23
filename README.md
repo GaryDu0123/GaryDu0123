@@ -23,11 +23,9 @@
 >
 > 主修计算机科学和软件工程
 >
-> 以下是英文简介
->
 > My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development.
 >
-> Currently searching Sign language production, Computer vision
+> Currently researching Sign Language Production (Computer Vision)
 >
 > Honous student
 >

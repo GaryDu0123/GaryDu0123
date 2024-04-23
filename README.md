@@ -17,7 +17,7 @@
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">
 </a>
 
-> 名字叫Gary, 目前悉尼大学大三在读
+> 名字叫Gary, 目前悉尼大学荣誉学位在读, 处在论文读不进去的状态......
 >
 > 因为[Kirara Fantasia](https://zh.wikipedia.org/wiki/%E9%97%AA%E8%80%80%E5%B9%BB%E6%83%B3%E6%9B%B2)抽不到[盐](https://wiki.kirafan.moe/#/character/32122010)所以网名改叫了盐 (后来复刻抽到了)
 >
@@ -25,13 +25,11 @@
 >
 > チノが一番好き!!!! ~~虽然打了日语但实际上是只会认五十音的屑~~
 >
-> 智乃厨 智乃厨 智乃厨
->
 > 以下是英文简介
 >
-> My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development
+> My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development. Current Search on Sign Language Production, Computer Vison
 >
-> Junior student
+> Honous student
 >
 > Email: gudu9182@uni.sydney.edu.au
 
@@ -56,7 +54,7 @@
 
 </br>
 
-🕊️有学Golang的计划来着, 都学了一点~ 慢慢来.jpg
+🕊️慢慢来.jpg
 
 </br>
 

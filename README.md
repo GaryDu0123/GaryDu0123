@@ -13,9 +13,9 @@
 </div>
 
 <hr>
-<a href="https://twitter.com/kusunoki5050/status/1498660502855045127">
+<!-- <a href="https://twitter.com/kusunoki5050/status/1498660502855045127">
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">
-</a>
+</a> -->
 
 > 名字叫Gary, 目前悉尼大学荣誉学位在读, 处在论文读不进去的状态......
 >

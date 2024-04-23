@@ -24,10 +24,13 @@
 > 主修计算机科学和软件工程
 >
 ```Python
-p = Person()
+p = Person(name="Gary")
 p.age: str | int = "Unknown"
 p.degree: str = "Honours student"
-p.bio: str = "My name is Gary, currently studying in The University of Sydney, majoring in Computer Science and Software Development."
+p.bio: list = [
+    "Currently studying in The University of Sydney, majoring in Computer Science and Software Development. ",
+    "Researching Sign language production, Computer vision"
+]
 p.email: str = "gudu9182@uni.sydney.edu.au"
 p.run()
 ```

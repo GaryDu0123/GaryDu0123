@@ -2,7 +2,7 @@
 
 <div align="center">
     <div>
-        <font face="courier New" color=	#20B2AA>欢迎来到盐的幻想世界</font>
+        <font face="courier New" color=	#20B2AA>欢迎来到盐盐盐的幻想世界</font>
     </div>
     <div>
         <font face="courier New" color=	#20B2AA>ソルトのファンタジアの世界へようこそ~</font> 

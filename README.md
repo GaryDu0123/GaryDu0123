@@ -14,12 +14,12 @@
 
 <div align="center">
     <div>
-        <font face="courier New" color=	#20B2AA>...ありがとう</font>
+        <font face="courier New" color="#20B2AA">...ありがとう</font>
     </div>
     <div>
-        <font face="courier New" color=	#20B2AA>きみがこの世界に生まれてきてくれて、本当に、よかった</font> 
+        <font face="courier New" color="#20B2AA">きみがこの世界に生まれてきてくれて、本当に、よかった</font> 
     </div>
-    <a href="https://bangumi.tv/character/59775" target="_blank">
+    <a target="_blank" href="https://bangumi.tv/character/59775">
         <img src="./kuro.jpg" alt="kuro">
     </a>
 </div>

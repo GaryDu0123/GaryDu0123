@@ -19,7 +19,7 @@
     <div>
         <font face="courier New" color=	#20B2AA>きみがこの世界に生まれてきてくれて、本当に、よかった</font> 
     </div>
-    <a href="https://www.pixiv.net/artworks/89268058">
+    <a href="https://bangumi.tv/character/59775">
         <img src="./kuro.jpg" alt="kuro">
     </a>
 </div>

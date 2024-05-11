@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<!-- <div align="center">
     <div>
         <font face="courier New" color=	#20B2AA>欢迎来到盐盐盐的幻想世界</font>
     </div>
@@ -9,6 +9,18 @@
     </div>
     <a href="https://www.pixiv.net/artworks/89268058">
         <img src="./chino.jpg" alt="chino">
+    </a>
+</div> -->
+
+<div align="center">
+    <div>
+        <font face="courier New" color=	#20B2AA>...ありがとう</font>
+    </div>
+    <div>
+        <font face="courier New" color=	#20B2AA>きみがこの世界に生まれてきてくれて、本当に、よかった</font> 
+    </div>
+    <a href="https://www.pixiv.net/artworks/89268058">
+        <img src="./kuro.jpg" alt="kuro">
     </a>
 </div>
 

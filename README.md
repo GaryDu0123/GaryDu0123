@@ -28,6 +28,8 @@ $$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{pink}{幸せ
 
 <div align="end">』</div>
 
+<br>
+
 <div align="center">
     <a target="_blank" href="https://bangumi.tv/character/59775">
         <img src="./kuro.jpg" alt="kuro">

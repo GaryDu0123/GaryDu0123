@@ -12,6 +12,9 @@
     </a>
 </div> -->
 
+<div align="start">
+    『
+</div>
 
 <div align="center">
     <div>
@@ -23,11 +26,15 @@ $${ \textbf{\Large\color{pink}きみがこの世界に生まれてきてくれ�
 
 $$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{pink}{幸せ}な\textcolor{WildStrawberry}{魔法}が\\textcolor{CarnationPink}{ありますように} } $$
 
+<div align="end">』</div>
+
 <div align="center">
     <a target="_blank" href="https://bangumi.tv/character/59775">
         <img src="./kuro.jpg" alt="kuro">
     </a>
 </div>
+
+
 <hr>
 <!-- <a href="https://twitter.com/kusunoki5050/status/1498660502855045127">
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">

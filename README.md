@@ -12,18 +12,22 @@
     </a>
 </div> -->
 
+
 <div align="center">
     <div>
-        <font face="courier New" color="#20B2AA">...ありがとう</font>
+        ...ありがとう
     </div>
-    <div>
-        <font face="courier New" color="#20B2AA"><b>きみがこの世界に生まれてきてくれて、本当に、よかった</b></font> 
-    </div>
+</div>
+
+$${ \textbf{\Large\color{pink}きみがこの世界に生まれてきてくれて、本当に、よかった} }$$
+
+$$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{Lavender}{幸せ}な\textcolor{orange}{魔法}が\\textcolor{WildStrawberry}{ありますように} } $$
+
+<div align="center">
     <a target="_blank" href="https://bangumi.tv/character/59775">
         <img src="./kuro.jpg" alt="kuro">
     </a>
 </div>
-
 <hr>
 <!-- <a href="https://twitter.com/kusunoki5050/status/1498660502855045127">
     <img align="right" height="341" width="241" src="./chino_intro.png" alt="chino">

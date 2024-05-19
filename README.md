@@ -21,7 +21,7 @@
 
 $${ \textbf{\Large\color{pink}きみがこの世界に生まれてきてくれて、本当に、よかった} }$$
 
-$$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{Lavender}{幸せ}な\textcolor{orange}{魔法}が\\textcolor{WildStrawberry}{ありますように} } $$
+$$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{pink}{幸せ}な\textcolor{WildStrawberry}{魔法}が\\textcolor{CarnationPink}{ありますように} } $$
 
 <div align="center">
     <a target="_blank" href="https://bangumi.tv/character/59775">

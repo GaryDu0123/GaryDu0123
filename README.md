@@ -28,7 +28,7 @@ $${ \textsf{\tiny\color{pink}你能来到这个世界上，与我相遇，真的
 
 $$ \textbf{ いつも\textcolor{pink}{きみ}の隣に、\textcolor{pink}{幸せ}な\textcolor{WildStrawberry}{魔法}が\textcolor{CarnationPink}{ありますように} } $$
 
-$${ \textsf{\tiny\textcolor{CarnationPink}{祈祷着}今后的\textcolor{pink}{你}的人生，永远都有\textcolor{pink}{幸福}的\textcolor{WildStrawberry}{「魔法」}相伴} }$$
+$${ \textsf{\tiny\textcolor{CarnationPink}{祈祷着}今后\textcolor{pink}{你}的人生，永远都有\textcolor{pink}{幸福}的\textcolor{WildStrawberry}{「魔法」}相伴} }$$
 
 
 <div align="end">』</div>

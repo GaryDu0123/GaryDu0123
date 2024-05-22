@@ -18,7 +18,7 @@
 
 <div align="center">
     <div>
-        ...ありがとう
+        ...ありがとう、クロ
     </div>
 </div>
 

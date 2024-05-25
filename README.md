@@ -16,11 +16,8 @@
     『
 </div>
 
-<div align="center">
-    <div>
-        ...ありがとう、クロ
-    </div>
-</div>
+
+$${ \text{...ありがとう、クロ}}$$
 
 $${ \textbf{\Large\color{pink}きみがこの世界に生まれてきてくれて、本当に、よかった} }$$
 

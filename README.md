@@ -56,8 +56,7 @@ p.nickname = "Salt"
 p.age: str | int = "Unknown"
 p.degree: str = "Honours student"
 p.bio: list = [
-    "Majoring in Computer Science and Software Development. ",
-    "Researching Sign language production, Computer vision. "
+    "Majoring in Computer Science and Software Development. ""
 ]
 p.school: str = "The University of Sydney"
 p.email: str = "gudu9182@uni.sydney.edu.au"

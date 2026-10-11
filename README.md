@@ -58,8 +58,8 @@ p.degree: str = "Honours student"
 p.bio: list = [
     "Majoring in Computer Science and Software Development. ""
 ]
-p.school: str = "The University of Sydney"
-p.email: str = "gudu9182@uni.sydney.edu.au"
+p.school: str = "Columbia Uni"
+p.email: str = "gd2802@columbia.edu"
 p.run()
 ```
 

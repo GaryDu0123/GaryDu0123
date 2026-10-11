@@ -54,13 +54,16 @@ $${ \tiny\textsf{\textcolor{CarnationPink}{祈祷着}今后\textcolor{pink}{你}
 p = Person(name="Gary")
 p.nickname = "Salt"
 p.age: str | int = "Unknown"
-p.degree: str = "Honours student"
-p.bio: list = [
-    "Majoring in Computer Science and Software Development. ""
+p.degree: str = "Master's Student in Artificial Intelligence"
+p.bio: list[str] = [
+    "Concentrating in AI Infrastructure.",
+    "B.Adv.Comp. (Honours I) from the University of Sydney.",
+    "Background in Computer Science and Software Development.",
 ]
-p.school: str = "Columbia Uni"
+p.school: str = "Columbia University"
 p.email: str = "gd2802@columbia.edu"
 p.run()
+
 ```
 
 <a href="https://github.com/garydu0123">
